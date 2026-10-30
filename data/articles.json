@@ -8,63 +8,777 @@
   ]
  },
  {
-  "title": "Capitán Blas de la Garza Falcón",
-  "url": "blas-de-la-garza-falcon.html",
-  "summary": "fue un militar y poblador novohispano del siglo XVII, figura fundacional del linaje Garza en el Nuevo Reino de León.",
+  "title": "Alfredo Garza Falcón",
+  "url": "alfredo-garza-falcon-1916.html",
+  "summary": "Nacido en San Juan de Sabinas, Coahuila, en 1916 y fallecido en Anáhuac, Nuevo León, en 2003. Esposo de Aurora García Lozano; punto de partida de esta investigación de las líneas Garza y García.",
   "categories": [
-   "Historia",
    "Personas ilustres",
    "Familia Garza García"
-  ]
+  ],
+  "image": "assets/retratos/escudo-garza-garcia.png"
  },
  {
-  "title": "Dionisio García Fuentes",
-  "url": "dionisio-garcia-fuentes.html",
-  "summary": "fue un poblador del noreste de México, reconocido en la tradición familiar como tronco de la rama García vinculada a los Garza.",
+  "title": "Ana María Gertrudis Ramírez",
+  "url": "ana-maria-gertrudis-ramirez.html",
+  "summary": "Esposa de José García Morales y madre de Miguel José García Ramírez.",
   "categories": [
-   "Historia",
    "Personas ilustres",
    "Familia García Garza"
-  ]
+  ],
+  "image": "assets/retratos/escudo-garcia-garza.png"
  },
  {
-  "title": "Praxedis de la Peña García",
-  "url": "praxedis-de-la-pena-garcia.html",
-  "summary": "fue una integrante destacada de la familia De la Peña García, recordada como enlace entre linajes del noreste mexicano.",
-  "categories": [
-   "Historia",
-   "Personas ilustres",
-   "Familia García Garza"
-  ]
- },
- {
-  "title": "Antonio García Carrillo",
+  "title": "Lic. Antonio García Carrillo",
   "url": "antonio-garcia-carrillo.html",
-  "summary": "fue un vecino del noreste de México perteneciente a la rama García Carrillo.",
+  "summary": "Abogado saltillense, discípulo de Sebastián Lerdo de Tejada, impulsor de la ratificación de la independencia de Coahuila respecto de Nuevo León (1868), cofundador del Ateneo Fuente y gobernador del estado. El Teatro Garc",
   "categories": [
-   "Historia",
    "Personas ilustres",
    "Familia García Garza"
-  ]
+  ],
+  "image": "assets/retratos/antonio-garcia-carrillo.jpg"
  },
  {
-  "title": "Santos Javier Garza García",
-  "url": "santos-javier-garza-garcia.html",
-  "summary": "es un político mexicano, miembro del Partido Acción Nacional (PAN), que se desempeñó como presidente municipal (alcalde) de Anáhuac, Nuevo León.",
+  "title": "Antonio García de León",
+  "url": "antonio-garcia-de-leon.html",
+  "summary": "[Según Durón Jiménez, 1992; sin documento verificado] Comerciante saltillense de próspero negocio, Juez de Letras (1842), procurador del ayuntamiento (1849) y después regidor. Vivió la invasión estadounidense, la pérdida",
   "categories": [
    "Personas ilustres",
-   "Personas ilustres actuales",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/escudo-garcia-garza.png"
+ },
+ {
+  "title": "Antonio García Narro",
+  "url": "antonio-garcia-narro.html",
+  "summary": "[Según Durón Jiménez, 1992; sin documento verificado] Hijo de José García Rodríguez y María Narro Valdés. Estudió en el Colegio de San Juan (el edificio fue destruido poco después de ingresar) y, por decisión de su padre",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Narro",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/antonio-garcia-narro.jpg"
+ },
+ {
+  "title": "José Antonio Narro Rodríguez",
+  "url": "antonio-narro-rodriguez.html",
+  "summary": "Agricultor saltillense (1840–1912) que en su testamento legó su fortuna y la hacienda de Buenavista para fundar una escuela de agricultura; de ahí nació la Universidad Autónoma Agraria Antonio Narro. Segundo albacea: Jos",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Narro",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/antonio-narro-rodriguez.jpg"
+ },
+ {
+  "title": "Aurora García Lozano",
+  "url": "aurora-garcia-lozano-1935.html",
+  "summary": "Nacida en Anáhuac, Nuevo León, en 1935 y fallecida allí en 2021. Esposa de Alfredo Garza Falcón; novena de diez hermanos de la familia García Lozano.",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/aurora-garcia-lozano-1935.jpg"
+ },
+ {
+  "title": "Beatriz Villarreal de la Garza",
+  "url": "beatriz-villarreal-de-la-garza-1676.html",
+  "summary": "Bautizada en Monterrey en 1676; esposa del general Blas de la Garza Falcón. Murió en 1746 en el presidio de San Juan Bautista del Río Grande, Coahuila.",
+  "categories": [
+   "Personas ilustres",
    "Familia Garza García"
-  ]
+  ],
+  "image": "assets/retratos/escudo-garza-garcia.png"
+ },
+ {
+  "title": "Blas de la Garza Falcón",
+  "url": "blas-de-la-garza-falcon.html",
+  "summary": "Militar y poblador del noreste novohispano; tronco fundador. Antepasado (13.ª generación) de Francisco Javier García Gaona por ambas líneas parentales.",
+  "categories": [
+   "Personas ilustres",
+   "Familia Garza García"
+  ],
+  "image": "assets/retratos/blas-de-la-garza-falcon.jpg"
+ },
+ {
+  "title": "General Blas de la Garza Falcón",
+  "url": "blas-de-la-garza-falcon-1673.html",
+  "summary": "Bautizado en Monterrey en 1673 y fallecido en 1736 en Guerrero, Coahuila. No debe confundirse con su abuelo homónimo, el capitán Blas de la Garza Falcón (1591–1669).",
+  "categories": [
+   "Personas ilustres",
+   "Familia Garza García"
+  ],
+  "image": "assets/retratos/escudo-garza-garcia.png"
+ },
+ {
+  "title": "Capitán Blas María de la Garza Falcón",
+  "url": "blas-maria-de-la-garza-falcon-1712.html",
+  "summary": "Capitán, hijo del general Blas de la Garza Falcón. Nacido hacia 1712 en Sabinas Hidalgo, N.L., y fallecido en 1767 en Camargo, Tamaulipas, según el árbol (sin documentos).",
+  "categories": [
+   "Personas ilustres",
+   "Familia Garza García"
+  ],
+  "image": "assets/retratos/escudo-garza-garcia.png"
+ },
+ {
+  "title": "Cristóbal García Reyes",
+  "url": "cristobal-garcia-reyes-1717.html",
+  "summary": "Vecino de Monterrey y después de Mier, Tamaulipas; padre de José Santiago García. Murió antes de enero de 1779.",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/escudo-garcia-garza.png"
+ },
+ {
+  "title": "Dionisio García Carrillo",
+  "url": "dionisio-garcia-carrillo.html",
+  "summary": "[Según Durón Jiménez, 1992; sin documento verificado] Hijo mayor de Antonio García de León y Fernanda Carrillo; en 1860 arengó con su hermano Antonio en la Alameda contra Vidaurri y tuvo que exiliarse a San Luis Potosí. ",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/escudo-garcia-garza.png"
+ },
+ {
+  "title": "Dr. Dionisio García Fuentes",
+  "url": "dionisio-garcia-fuentes.html",
+  "summary": "Médico cirujano, presidente municipal de Saltillo (1887) y dos veces director del Ateneo Fuente. Conocido en Coahuila como el «Padre del Positivismo»; autor de «La integridad de la conciencia».",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/dionisio-garcia-fuentes.jpg"
+ },
+ {
+  "title": "Lic. Dionisio García Narro",
+  "url": "dionisio-garcia-narro.html",
+  "summary": "[Según Durón Jiménez, 1992; sin documento verificado] Último hijo de José García Rodríguez y María Narro Valdés. Estudió en el Ateneo Fuente y se licenció en Derecho en la UNAM. Casó con María de la Luz García Fuentes (s",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Narro",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/escudo-garcia-narro.png"
+ },
+ {
+  "title": "Dorotea Lozano García",
+  "url": "dorotea-lozano-garcia-1898.html",
+  "summary": "Nacida en 1898 en Los Aldamas, N.L.; casó en 1916 con Santos García Hinojosa. Madre de Aurora García Lozano. Murió en Nuevo Laredo en 1987.",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/escudo-garcia-garza.png"
+ },
+ {
+  "title": "Encarnación de Palacio y Uro",
+  "url": "encarnacion-de-palacio-y-uro-1784.html",
+  "summary": "Bautizada en 1784 en Santa Rosa de Lima, Múzquiz, como María Encarnación Estefana; casó en 1806 con José María de la Garza.",
+  "categories": [
+   "Personas ilustres",
+   "Familia Garza García"
+  ],
+  "image": "assets/retratos/escudo-garza-garcia.png"
+ },
+ {
+  "title": "Fernando García Narro",
+  "url": "fernando-garcia-narro.html",
+  "summary": "[Según Durón Jiménez, 1992; sin documento verificado] Sexto hijo del matrimonio García Narro. Estudió en el Colegio de San Juan y en Estados Unidos; casó muy joven con Consuelo Sánchez (cinco hijos). Trabajó muchos años ",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Narro",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/fernando-garcia-narro.jpg"
+ },
+ {
+  "title": "Francisca Vázquez Delgado",
+  "url": "francisca-vazquez-delgado.html",
+  "summary": "Esposa de Jonás García Castilleja y madre de Margarito García Vázquez.",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/escudo-garcia-garza.png"
+ },
+ {
+  "title": "Francisca Xaviera Ramos",
+  "url": "francisca-xaviera-ramos-1730.html",
+  "summary": "Esposa de Miguel José García Ramírez y madre de Juan José Luis García Ramos.",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/escudo-garcia-garza.png"
+ },
+ {
+  "title": "Francisco Antonio Garza González",
+  "url": "francisco-antonio-garza-gonzalez-1848.html",
+  "summary": "Nacido y bautizado el 10 de junio de 1848 en Santa Rosa de Lima, Múzquiz, Coahuila; casó con María Clara Valdés en 1875. Abuelo de Alfredo Garza Falcón.",
+  "categories": [
+   "Personas ilustres",
+   "Familia Garza García"
+  ],
+  "image": "assets/retratos/escudo-garza-garcia.png"
+ },
+ {
+  "title": "Francisco de la Garza Uro",
+  "url": "francisco-de-la-garza-uro-1813.html",
+  "summary": "Vecino de Santa Rosa de Lima, Múzquiz, Coahuila; casó en 1833 con María Rosalía González. Bisabuelo de Alfredo Garza Falcón.",
+  "categories": [
+   "Personas ilustres",
+   "Familia Garza García"
+  ],
+  "image": "assets/retratos/escudo-garza-garcia.png"
+ },
+ {
+  "title": "Francisco García de la Peña",
+  "url": "francisco-garcia-de-la-pena-1883.html",
+  "summary": "Nacido en 1883 en Huachichil, Arteaga, Coahuila; bautizado en General Cepeda. Hijo de Jesús García Flores y Jacoba de la Peña Saucedo.",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/escudo-garcia-garza.png"
  },
  {
   "title": "Lic. Francisco Javier García Gaona",
   "url": "francisco-javier-garcia-gaona.html",
-  "summary": "es un licenciado mexicano, miembro de la rama García del Huachichil, reconocido como persona ilustre actual por su labor de preservación de la memoria histórica y familiar.",
+  "summary": "Licenciado coahuilense de los García del Huachichil, descendiente en 13.ª generación del Capitán Blas de la Garza Falcón por ambas líneas. Fundador de Grupo Empresarial GARGA de México y de la plataforma Soy Divergente.",
   "categories": [
    "Personas ilustres",
    "Personas ilustres actuales",
    "Familia García Garza"
-  ]
+  ],
+  "image": "assets/retratos/francisco-javier-garcia-gaona.jpg"
+ },
+ {
+  "title": "Gertrudis Saucedo",
+  "url": "gertrudis-saucedo.html",
+  "summary": "Esposa de José Antonio García Guajardo y madre de Jesús García Saucedo.",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/escudo-garcia-garza.png"
+ },
+ {
+  "title": "Hermilo García García",
+  "url": "hermilo-garcia-garcia-1925.html",
+  "summary": "Nacido en General Cepeda, Coahuila, en 1925; hijo de Francisco García de la Peña y María García García. Casado con Macaria Castilleja Sánchez, padre de trece hijos.",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/escudo-garcia-garza.png"
+ },
+ {
+  "title": "Jacoba de la Peña Saucedo",
+  "url": "jacoba-de-la-pena-saucedo-1861.html",
+  "summary": "Esposa de Jesús García Flores y madre de once hijos, entre ellos Francisco García de la Peña.",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/escudo-garcia-garza.png"
+ },
+ {
+  "title": "Jesús García Flores",
+  "url": "jesus-garcia-flores-1851.html",
+  "summary": "Bautizado en Saltillo en 1851; casado en General Cepeda con Jacoba de la Peña Saucedo, con quien tuvo once hijos.",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/escudo-garcia-garza.png"
+ },
+ {
+  "title": "Dr. Jesús García Fuentes",
+  "url": "jesus-garcia-fuentes.html",
+  "summary": "[Según Durón Jiménez, 1992; sin documento verificado] Médico saltillense, alumno del Ateneo Fuente y titulado en la Escuela Nacional de Medicina de México; el libro lo da como director del Ateneo de 1901 a 1902. Casó con",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/escudo-garcia-garza.png"
+ },
+ {
+  "title": "Jesús García Saucedo",
+  "url": "jesus-garcia-saucedo-1819.html",
+  "summary": "Nacido en Saltillo hacia 1819; casado en 1849 con Rosalía Flores Mireles. Padre de quince hijos.",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/escudo-garcia-garza.png"
+ },
+ {
+  "title": "Jonás García Castilleja",
+  "url": "jonas-garcia-castilleja-1948.html",
+  "summary": "Nacido en General Cepeda, Coahuila, en 1948; hijo de Hermilo García García y Macaria Castilleja Sánchez. Da nombre a la familia García Castilleja.",
+  "categories": [
+   "Personas ilustres",
+   "Personas ilustres actuales",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/escudo-garcia-garza.png"
+ },
+ {
+  "title": "José Antonio García Guajardo",
+  "url": "jose-antonio-garcia-guajardo-1787.html",
+  "summary": "Nacido y bautizado en Saltillo en 1787; casado en 1815 con Gertrudis Saucedo.",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/escudo-garcia-garza.png"
+ },
+ {
+  "title": "José Bartolomé García García",
+  "url": "jose-bartolome-garcia-garcia-1767.html",
+  "summary": "Bautizado en 1767 en Mier, Tamaulipas; casó en Cerralvo en 1796 y en 1815. Murió en 1830 en Charco Redondo.",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/escudo-garcia-garza.png"
+ },
+ {
+  "title": "José Francisco de la Garza Villarreal",
+  "url": "jose-francisco-de-la-garza-villarreal-1732.html",
+  "summary": "Nacido en 1732; vecino de Camargo, Tamaulipas, casado con María Rita de Hinojosa. Nieto del general Blas de la Garza Falcón según el árbol.",
+  "categories": [
+   "Personas ilustres",
+   "Familia Garza García"
+  ],
+  "image": "assets/retratos/escudo-garza-garcia.png"
+ },
+ {
+  "title": "José García de la Garza",
+  "url": "jose-garcia-de-la-garza-1656.html",
+  "summary": "Nacido en Saltillo en 1656; hijo del alférez Lorenzo García y de Juana de la Garza González.",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/escudo-garcia-garza.png"
+ },
+ {
+  "title": "José García Morales",
+  "url": "jose-garcia-morales-1685.html",
+  "summary": "Nacido y bautizado en Saltillo en 1685; nieto de Juana de la Garza González.",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/escudo-garcia-garza.png"
+ },
+ {
+  "title": "José García Narro",
+  "url": "jose-garcia-narro.html",
+  "summary": "[Según Durón Jiménez, 1992; sin documento verificado] Primogénito de José García Rodríguez y María Narro Valdés. Estudió en el Colegio de San Juan y con los jesuitas en San Luis (Missouri), y vivió en Nueva York dedicado",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Narro",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/jose-garcia-narro.jpg"
+ },
+ {
+  "title": "Don José García Rodríguez",
+  "url": "jose-garcia-rodriguez.html",
+  "summary": "[Según Durón Jiménez, 1992; sin documento verificado] Maestro y director del Ateneo Fuente en tres periodos (1902-1909, 1934-1938 y 1941-hasta su muerte en 1948), director de la Escuela Normal y de la Dirección General d",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/jose-garcia-rodriguez.jpg"
+ },
+ {
+  "title": "José María de la Garza",
+  "url": "jose-maria-de-la-garza-1826.html",
+  "summary": "Casó en 1806 en Santa Rosa de Lima, Múzquiz, con Encarnación de Palacio y Uro y fue sepultado allí en 1826. Hijo de José Valentín de la Garza y María Guadalupe Flores.",
+  "categories": [
+   "Personas ilustres",
+   "Familia Garza García"
+  ],
+  "image": "assets/retratos/escudo-garza-garcia.png"
+ },
+ {
+  "title": "José Santiago García (Cantú / Flores)",
+  "url": "jose-santiago-garcia-1737.html",
+  "summary": "Bautizado en 1737 en el Sagrario de Monterrey como Joseph Santiago García Flores; casó en 1757 en Cerralvo con Antonia Margarita García.",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/escudo-garcia-garza.png"
+ },
+ {
+  "title": "José Valentín de la Garza",
+  "url": "jose-valentin-de-la-garza-1759.html",
+  "summary": "Vecino de Villaldama, Nuevo León; casó en 1779 con María Guadalupe Flores y, viudo, en 1793 con María Rosa de Treviño.",
+  "categories": [
+   "Personas ilustres",
+   "Familia Garza García"
+  ],
+  "image": "assets/retratos/escudo-garza-garcia.png"
+ },
+ {
+  "title": "Juan José Luis García Ramos",
+  "url": "juan-jose-luis-garcia-ramos-1752.html",
+  "summary": "Nacido en Saltillo en 1752; casado en 1782 con María Josefa Guajardo.",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/escudo-garcia-garza.png"
+ },
+ {
+  "title": "Juana de la Garza González",
+  "url": "juana-de-la-garza-gonzalez-1622.html",
+  "summary": "Nacida en Monterrey en 1622, hija del Capitán Blas de la Garza Falcón y de Beatriz González Hidalgo. Casada con el alférez Lorenzo García, une a los García con los de la Garza.",
+  "categories": [
+   "Personas ilustres",
+   "Familia Garza García"
+  ],
+  "image": "assets/retratos/escudo-garza-garcia.png"
+ },
+ {
+  "title": "Leonides García Ramos",
+  "url": "leonides-garcia-ramos-1868.html",
+  "summary": "Nacido en 1868 en Cerralvo, N.L.; padre de Santos García Hinojosa. Casó tres veces y tuvo numerosa descendencia en Cerralvo y Melchor Ocampo.",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/escudo-garcia-garza.png"
+ },
+ {
+  "title": "Alférez Lorenzo García",
+  "url": "lorenzo-garcia.html",
+  "summary": "[Según Durón Jiménez, 1992; sin documento verificado] Lorenzo García es el patriarca más antiguo de la línea García del libro. De él «es muy poco lo que se sabe» (libro p. 17): casó con Juana de la Garza, una de las doce",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/escudo-garcia-garza.png"
+ },
+ {
+  "title": "Lorenzo García Gutiérrez",
+  "url": "lorenzo-garcia-gutierrez-1630.html",
+  "summary": "Nacido hacia 1630 en Mapimí, Durango, según las investigaciones de la genealogista Emma de Montemayor; vecino de Monterrey.",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/escudo-garcia-garza.png"
+ },
+ {
+  "title": "Los García Castilleja",
+  "url": "los-garcia-castilleja.html",
+  "summary": "Historia de la familia García Castilleja, de Juana de la Garza González y Lorenzo García en Saltillo a General Cepeda, Coahuila.",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/escudo-garcia-garza.png"
+ },
+ {
+  "title": "Los Garza García",
+  "url": "los-garza-garcia.html",
+  "summary": "Historia de los linajes Garza y García, del General Blas de la Garza Falcón a la familia Garza García de Anáhuac, con video, línea del tiempo y todas las biografías.",
+  "categories": [
+   "Personas ilustres",
+   "Familia Garza García"
+  ],
+  "image": "assets/retratos/escudo-garza-garcia.png"
+ },
+ {
+  "title": "Macaria Castilleja Sánchez",
+  "url": "macaria-castilleja-sanchez-1931.html",
+  "summary": "Esposa de Hermilo García García y madre de trece hijos, entre ellos Jonás García Castilleja.",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/escudo-garcia-garza.png"
+ },
+ {
+  "title": "Margarito García Vázquez",
+  "url": "margarito-garcia-vazquez-1968.html",
+  "summary": "Nacido en General Cepeda, Coahuila, en 1968; hijo de Jonás García Castilleja y Francisca Vázquez Delgado.",
+  "categories": [
+   "Personas ilustres",
+   "Personas ilustres actuales",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/escudo-garcia-garza.png"
+ },
+ {
+  "title": "María Catarina Gómez Báez",
+  "url": "maria-catarina-gomez-baez-1713.html",
+  "summary": "Nacida en 1713 en Mier, Tamaulipas, según el árbol; casó en 1731 en Villaldama con el capitán Blas María de la Garza Falcón.",
+  "categories": [
+   "Personas ilustres",
+   "Familia Garza García"
+  ],
+  "image": "assets/retratos/escudo-garza-garcia.png"
+ },
+ {
+  "title": "María Clara Valdez Rubio",
+  "url": "maria-clara-valdez-rubio-1858.html",
+  "summary": "Bautizada en 1858 en Nava, Coahuila; casó en 1875 en Múzquiz con Francisco Antonio Garza González. Abuela de Alfredo Garza Falcón.",
+  "categories": [
+   "Personas ilustres",
+   "Familia Garza García"
+  ],
+  "image": "assets/retratos/escudo-garza-garcia.png"
+ },
+ {
+  "title": "María de la Luz García Narro de López Villarreal",
+  "url": "maria-de-la-luz-garcia-narro.html",
+  "summary": "[Según Durón Jiménez, 1992; sin documento verificado] Pintora y coleccionista saltillense; estudió en el Colegio de la Purísima y en el Colegio de la Santa Cruz (Austin, Texas); alumna de su madre en la Academia (1946-19",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Narro",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/maria-de-la-luz-garcia-narro.jpg"
+ },
+ {
+  "title": "María de Morales",
+  "url": "maria-de-morales.html",
+  "summary": "Esposa de José García de la Garza y madre de José García Morales.",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/escudo-garcia-garza.png"
+ },
+ {
+  "title": "María del Carmen García Narro de Narro",
+  "url": "maria-del-carmen-garcia-narro.html",
+  "summary": "[Según Durón Jiménez, 1992; sin documento verificado] Segunda hija (primera mujer) de José García Rodríguez y María Narro Valdés. Estudió en el Colegio de la Purísima y, por la inseguridad de los disturbios revolucionari",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Narro",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/maria-del-carmen-garcia-narro.jpg"
+ },
+ {
+  "title": "María del Rosario García Narro de López Villarreal",
+  "url": "maria-del-rosario-garcia-narro.html",
+  "summary": "[Según Durón Jiménez, 1992; sin documento verificado] Hija de José García Rodríguez y María Narro Valdés. Estudió en el Colegio de la Purísima (Saltillo), en el de San José del Verbo Encarnado (Monterrey) y en el de la S",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Narro",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/maria-del-rosario-garcia-narro.jpg"
+ },
+ {
+  "title": "María García García",
+  "url": "maria-garcia-garcia-1884.html",
+  "summary": "Esposa de Francisco García de la Peña y madre de Hermilo García García.",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/escudo-garcia-garza.png"
+ },
+ {
+  "title": "María Guadalupe Flores Villarreal",
+  "url": "maria-guadalupe-flores-villarreal-1792.html",
+  "summary": "Casó en 1779 en Villaldama, N.L., con José Valentín de la Garza y murió allí en 1792. Madre de José María de la Garza.",
+  "categories": [
+   "Personas ilustres",
+   "Familia Garza García"
+  ],
+  "image": "assets/retratos/escudo-garza-garcia.png"
+ },
+ {
+  "title": "María Josefa Guajardo Galindo",
+  "url": "maria-josefa-guajardo-galindo-1761.html",
+  "summary": "Esposa de Juan José Luis García Ramos y madre de José Antonio García Guajardo.",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/escudo-garcia-garza.png"
+ },
+ {
+  "title": "Doña María Narro Valdés de García Rodríguez",
+  "url": "maria-narro-valdes.html",
+  "summary": "[Según Durón Jiménez, 1992; sin documento verificado] Pintora saltillense, discípula del italiano Giovannetti y luego del maestro Rubén Herrera, considerada por el crítico Mario Herrera «la primera pintora de Coahuila qu",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Narro",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/maria-narro-valdes.jpg"
+ },
+ {
+  "title": "María Rita Hinojosa González",
+  "url": "maria-rita-hinojosa-gonzalez-1734.html",
+  "summary": "Vecina de Camargo, Tamaulipas; esposa de José Francisco de la Garza Villarreal y madre de José Valentín de la Garza.",
+  "categories": [
+   "Personas ilustres",
+   "Familia Garza García"
+  ],
+  "image": "assets/retratos/escudo-garza-garcia.png"
+ },
+ {
+  "title": "María Rosalía González Quiros",
+  "url": "maria-rosalia-gonzalez-1813.html",
+  "summary": "Bautizada en 1813 y sepultada en 1848 en Santa Rosa de Lima, Múzquiz; esposa de Francisco de la Garza Uro y bisabuela de Alfredo Garza Falcón.",
+  "categories": [
+   "Personas ilustres",
+   "Familia Garza García"
+  ],
+  "image": "assets/retratos/escudo-garza-garcia.png"
+ },
+ {
+  "title": "Martiniano Garza Valdez",
+  "url": "martiniano-garza-valdez-1883.html",
+  "summary": "Nacido en 1883 en Sabinas, Coahuila; padre de Alfredo Garza Falcón. Conocido en la familia como «abuelo Tano».",
+  "categories": [
+   "Personas ilustres",
+   "Familia Garza García"
+  ],
+  "image": "assets/retratos/escudo-garza-garcia.png"
+ },
+ {
+  "title": "Miguel José García Ramírez",
+  "url": "miguel-jose-garcia-ramirez-1726.html",
+  "summary": "Nacido en la Villa de Santiago del Saltillo en 1726; casado en 1751 con Francisca Xaviera Ramos. Padre de dieciséis hijos.",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/escudo-garcia-garza.png"
+ },
+ {
+  "title": "Nemesio García y García",
+  "url": "nemesio-garcia-y-garcia.html",
+  "summary": "Farmacéutico, ganadero y liberal de Lampazos de Naranjo, Nuevo León; presidente municipal, opositor a Porfirio Díaz y fundador en Laredo de la logia «Benito Juárez», la primera logia mexicana de Texas. Padre del escritor",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/escudo-garcia-garza.png"
+ },
+ {
+  "title": "Noé Fernando Garza Flores",
+  "url": "noe-fernando-garza-flores.html",
+  "summary": "Ingeniero agropecuario y zootecnista coahuilense (n. 31 may 1948). Diputado federal (LXI Legislatura) y secretario de Desarrollo Rural de Coahuila (2011–2015). Tradición familiar lo sitúa como tío de Santos Javier Garza ",
+  "categories": [
+   "Personas ilustres",
+   "Personas ilustres actuales",
+   "Familia Garza García"
+  ],
+  "image": "assets/retratos/noe-fernando-garza-flores.jpg"
+ },
+ {
+  "title": "Pedro García Guajardo",
+  "url": "pedro-garcia-guajardo-1669.html",
+  "summary": "Nacido hacia 1669 en Saltillo, Coahuila, según su propia declaración de 1711; murió en Monterrey en 1731. Casado con María Rosa Bazán.",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/escudo-garcia-garza.png"
+ },
+ {
+  "title": "Pedro Regalado García Guajardo",
+  "url": "pedro-regalado-garcia-guajardo-1689.html",
+  "summary": "Bautizado en Monterrey en 1689 según el árbol; casó en 1716 en el Sagrario de Monterrey con María Josefa de los Reyes.",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/escudo-garcia-garza.png"
+ },
+ {
+  "title": "Lic. Praxedis de la Peña García",
+  "url": "praxedis-de-la-pena-garcia.html",
+  "summary": "Abogado saltillense, gobernador de Coahuila en 1884, 1909 y 1913–1914, y empresario de La Laguna: fundador de la Compañía de Luz y Fuerza Eléctrica de Saltillo y del Banco de Coahuila, y uno de los fundadores de Torreón.",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/praxedis-de-la-pena-garcia.jpg"
+ },
+ {
+  "title": "Ramona Falcón Ruiz",
+  "url": "ramona-falcon-ruiz-1885.html",
+  "summary": "Bautizada en 1885 en San Buenaventura, Coahuila; esposa de Martiniano Garza Valdez y madre de Alfredo Garza Falcón. Murió en Anáhuac, N.L., en 1982.",
+  "categories": [
+   "Personas ilustres",
+   "Familia Garza García"
+  ],
+  "image": "assets/retratos/escudo-garza-garcia.png"
+ },
+ {
+  "title": "Ramona Gaona Samaniego",
+  "url": "ramona-gaona-samaniego.html",
+  "summary": "Madre de Francisco Javier García Gaona; hija de Santos Gaona Aguilar y María Samaniego.",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/escudo-garcia-garza.png"
+ },
+ {
+  "title": "Romualdo García López",
+  "url": "romualdo-garcia-lopez-1843.html",
+  "summary": "Bautizado en 1843 en Cerralvo, N.L.; casó en 1868 con San Juana Ramos y murió en Melchor Ocampo en 1931, a los 89 años.",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/escudo-garcia-garza.png"
+ },
+ {
+  "title": "Rosalía Flores Mireles",
+  "url": "rosalia-flores-mireles-1833.html",
+  "summary": "Esposa de Jesús García Saucedo y madre de Jesús García Flores.",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/escudo-garcia-garza.png"
+ },
+ {
+  "title": "Santos García Hinojosa",
+  "url": "santos-garcia-hinojosa-1891.html",
+  "summary": "Nacido en 1891 en Cerralvo, N.L. (Charco Redondo); casó en 1916 con Dorotea Lozano en Los Aldamas. Padre de Aurora García Lozano. Murió en Anáhuac en 1947.",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/escudo-garcia-garza.png"
+ },
+ {
+  "title": "Santos Javier Garza García",
+  "url": "santos-javier-garza-garcia.html",
+  "summary": "Alcalde de Anáhuac, Nuevo León, en la administración 2009–2012, electo por el PAN con cerca del 61 % de los votos. Encabezó la evacuación de la cabecera municipal en julio de 2010 por el desfogue de la presa Venustiano C",
+  "categories": [
+   "Personas ilustres",
+   "Personas ilustres actuales",
+   "Familia Garza García"
+  ],
+  "image": "assets/retratos/santos-javier-garza-garcia.jpg"
+ },
+ {
+  "title": "Vicente García Salinas",
+  "url": "vicente-garcia-salinas-1806.html",
+  "summary": "Bautizado en 1806 en San Gregorio Magno, Cerralvo; casó en 1830 con Luisa López y murió en Cerralvo en 1869.",
+  "categories": [
+   "Personas ilustres",
+   "Familia García Garza"
+  ],
+  "image": "assets/retratos/escudo-garcia-garza.png"
  }
 ]
