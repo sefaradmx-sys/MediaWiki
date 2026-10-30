@@ -40,3 +40,12 @@ h2{font-family:Georgia,serif;font-weight:400;font-size:1.25rem;border-bottom:1px
   .brand small{display:none}
   #content{padding:12px 12px 24px;border-left:0;border-right:0}
 }
+
+.recent-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:12px 0}
+.recent-card{border:1px solid #cedff2;background:#f5faff;border-radius:6px;overflow:hidden;display:flex;flex-direction:column;min-height:140px}
+.recent-card a.card-link{display:block;color:inherit;text-decoration:none;flex:1;padding:0 0 8px}
+.recent-card img{width:100%;height:90px;object-fit:cover;background:#eaecf0;display:block}
+.recent-card .tag{display:inline-block;font-size:.65rem;text-transform:uppercase;letter-spacing:.03em;background:#36c;color:#fff;padding:2px 6px;border-radius:3px;margin:8px 10px 0}
+.recent-card h3{font-size:.95rem;margin:4px 10px 2px;font-family:Georgia,serif;font-weight:400;line-height:1.25}
+.recent-card p{font-size:.8rem;margin:0 10px 8px;color:#54595d}
+@media(max-width:640px){.recent-grid{grid-template-columns:1fr 1fr;gap:8px}.recent-card img{height:72px}.recent-card h3{font-size:.85rem}}
