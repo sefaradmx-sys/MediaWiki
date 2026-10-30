@@ -6,7 +6,8 @@ Enciclopedia estática en español con apariencia de MediaWiki/Wikipedia (skin V
 
 ## Navegar
 - GitHub Pages: https://sefaradmx-sys.github.io/MediaWiki/
-- Activar: *Settings → Pages → Build and deployment → Deploy from a branch → `main` / `/docs` → Save*.
+- Activar: *Settings → Pages → Build and deployment → Deploy from a branch → `main` / `(root)` → Save*.
+- El sitio se publica desde la raíz del repositorio (`index.html` = Portada, `.nojekyll`). `docs/` se mantiene como copia sincronizada.
 - Local: abre `docs/index.html` o ejecuta `python3 -m http.server -d docs` (la búsqueda requiere servidor por `fetch`).
 
 ## Estructura
